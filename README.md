@@ -5,6 +5,7 @@
 Jeu d'arcade narratif inspiré de l'univers **Deejay Pat B** et de l'esthétique urbaine nocturne des grands classiques du jeu vidéo (*Wanted Stars*, bannières `MISSION PASSED!`, `WASTED`, `BUSTED!`, radar HUD et ambiance Jumpstyle / Old School 150 BPM).
 
 Le fichier principal du jeu dans le dépôt est **`AFTERHOURS_DEEJAY_PAT_B_Edition.html`**.
+https://github.com/asblPixels/Afterhours/blob/eb6e3b00a6696e79cc851eb4b6f0fdc823d0d6bb/AFTERHOURS_DEEJAY_PAT_B_Edition.html
 
 ## ✨ Nouveautés & Fonctionnalités
 
